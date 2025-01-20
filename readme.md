@@ -1,6 +1,3 @@
-to start airflow:
-astro dev start
-
 What bot needs is:
 - trigger data loader
 - trigger salary 
