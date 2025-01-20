@@ -1,0 +1,6 @@
+/venv
+/creds
+.env
+/data
+/test_data
+/airflow/service_accounts
