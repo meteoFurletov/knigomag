@@ -14,11 +14,11 @@ PostgreSQL schema:
 ![alt text](image.png)
 
 timeline:
-13.01 + create postgres scheme 
-14.01 + setup postgres
-14.01 + setup clickhouse
-17.01 + setup the connectors
-20.01 + create etl from drive to postgres
-20.01 + create etl from drive to postgres - extract
-20.01 + create etl from drive to postgres - transform
-20.01 + create etl from drive to postgres - load
+- [x] 13.01 + create postgres scheme 
+- [x] 14.01 + setup postgres
+- [x] 14.01 + setup clickhouse
+- [x] 17.01 + setup the connectors
+- [x] 20.01 + create etl from drive to postgres
+- [x] 20.01 + create etl from drive to postgres - extract
+- [x] 20.01 + create etl from drive to postgres - transform
+- [x] 20.01 + create etl from drive to postgres - load
